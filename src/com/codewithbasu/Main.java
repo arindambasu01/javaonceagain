@@ -1,8 +1,13 @@
 package com.codewithbasu;
 
+
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Hello World");
+        int x = 10 + 12 % 5;
+        
+        System.out.println(x);
     }
 }
